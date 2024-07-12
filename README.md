@@ -26,23 +26,28 @@ Power Hacks is a celebratory hackathon marking the completion of the February 20
 
 ### Hack the Headlines: Code for Change
 - Goal: Address current social, economic, or political issues through innovative tech solutions.
-- Examples: Fact-checking tools, platforms for civic engagement, disaster response systems, tools for enhancing public safety.
+- Examples: Fact-checking tools, platforms for civic engagement, disaster response systems, and tools for enhancing public safety.
 
 ### Key Dates
-Hackathon Duration: July 9th - July 22nd, 2024
-Participants
-Open to individuals from the february 2024 cohort.
-Submission Requirements
-Atleast a working prototype or a detailed proposal with proof of concept.
-A presentation/pitch deck explaining the project, its impact, and future plans.
-Repository link
-Judging Criteria
-Innovation: Originality and creativity of the solution.
-Impact: Potential to make a significant positive impact in the chosen theme area.
-Technical Execution: Quality and functionality of the prototype or solution.
-Presentation: Clarity and persuasiveness of the project presentation.
-Prizes
-Awards and recognition for top project.
-Registration
-Registration can be completed online through the Power Hacks submission link that will be shared.
+- Hackathon Duration:**July 9th - July 22nd**, 2024
+
+#### Participants
+Open to individuals from the February 2024 cohort.
+
+#### Submission Requirements
+- At least a working prototype or a detailed proposal with proof of concept.
+- A presentation/pitch deck explaining the project, its impact, and future plans.
+
+#### Repository link
+- Judging Criteria
+- Innovation: Originality and creativity of the solution.
+- Impact: Potential to make a significant positive impact in the chosen theme area.
+- Technical Execution: Quality and functionality of the prototype or solution.
+- Presentation: Clarity and persuasiveness of the project presentation.
+
+### Prizes
+Awards and recognition for top projects.
+
+### Registration
+- Registration can be completed online through the Power Hacks submission link that will be shared.
 Good luck to all participants! Let's harness the power of technology to create impactful solutions for education, healthcare, and current affairs.
