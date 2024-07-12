@@ -3,9 +3,9 @@
 
 Power Hacks is a celebratory hackathon marking the completion of the February 2024 cohort. The event runs from July 9th to July 22nd, focusing on three main themes:
 
-1. Level Up Learning: Building innovative education tools for all (Ed Tech).
-2. Building Solutions for Improved Healthcare Accessibility: Health tech solutions.
-Hack the Headlines: Code for change, addressing current affairs in participating countries.
+**1. Level Up Learning:** Building innovative education tools for all (Ed Tech).
+**2. Health Care solutions:** Building Solutions for Improved Healthcare Accessibility
+**3. Hack the Headlines:** Code for change, addressing current affairs in participating countries.
 Objectives
 Foster innovative thinking and problem-solving among participants.
 Encourage the development of solutions that address educational and healthcare challenges.
