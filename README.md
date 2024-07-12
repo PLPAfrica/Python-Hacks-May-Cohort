@@ -14,19 +14,21 @@ Power Hacks is a celebratory hackathon marking the completion of the February 20
 - Promote awareness and solutions for current affairs through technology.
 
 ## Hackathon Themes
-Level Up Learning: Building Innovative Education Tools for All (Ed Tech)
+### Level Up Learning: Building Innovative Education Tools for All (Ed Tech)
 
-Goal: Create tools or platforms that enhance learning experiences, accessibility, and engagement for diverse learners.
-Examples: Interactive learning apps, AI tutors, virtual classrooms, educational games.
-Building Solutions for Improved Healthcare Accessibility (Health Tech)
+- Goal: Create tools or platforms that enhance learning experiences, accessibility, and engagement for diverse learners.
+- Examples: Interactive learning apps, AI tutors, virtual classrooms, educational games.
 
-Goal: Develop technologies that improve access to healthcare services, streamline medical processes, or enhance patient care.
-Examples: Telemedicine platforms, health tracking apps, AI diagnostics, patient management systems.
-Hack the Headlines: Code for Change
+### Building Solutions for Improved Healthcare Accessibility (Health Tech)
 
-Goal: Address current social, economic, or political issues through innovative tech solutions.
-Examples: Fact-checking tools, platforms for civic engagement, disaster response systems, tools for enhancing public safety.
-Key Dates
+- Goal: Develop technologies that improve access to healthcare services, streamline medical processes, or enhance patient care.
+- Examples: Telemedicine platforms, health tracking apps, AI diagnostics, patient management systems.
+
+### Hack the Headlines: Code for Change
+- Goal: Address current social, economic, or political issues through innovative tech solutions.
+- Examples: Fact-checking tools, platforms for civic engagement, disaster response systems, tools for enhancing public safety.
+
+### Key Dates
 Hackathon Duration: July 9th - July 22nd, 2024
 Participants
 Open to individuals from the february 2024 cohort.
