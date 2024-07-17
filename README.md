@@ -53,4 +53,4 @@ Awards and recognition for top projects.
 Good luck to all participants! Let's harness the power of technology to create impactful solutions for education, healthcare, and current affairs.
 
 ## Hackathon Submission Form Link
-(https://forms.gle/ZKmixmVXD6pz9eEQ6)[https://forms.gle/ZKmixmVXD6pz9eEQ6]
+https://forms.gle/ZKmixmVXD6pz9eEQ6
