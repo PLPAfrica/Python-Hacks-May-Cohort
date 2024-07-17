@@ -51,3 +51,6 @@ Awards and recognition for top projects.
 ### Registration
 - Registration can be completed online through the Power Hacks submission link that will be shared.
 Good luck to all participants! Let's harness the power of technology to create impactful solutions for education, healthcare, and current affairs.
+
+## Hackathon Submission Form Link
+(https://forms.gle/ZKmixmVXD6pz9eEQ6)[https://forms.gle/ZKmixmVXD6pz9eEQ6]
